@@ -9,7 +9,7 @@ I have an endless curiosity, always looking for opportunities to learn and impro
 
 ## 🧑‍💻 **My tech skills**
 
-[![My Skills](https://skills.thijs.gg/icons?i=bash,linux,md,git,github,py,postgres,docker,html,css,vscode,autocad)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,md,git,github,py,postgres,docker,html,css,vscode,discord,autocad)](https://skillicons.dev)
 
 ## 👀 **My interests and hobbies**
 
