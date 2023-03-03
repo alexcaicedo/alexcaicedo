@@ -1,6 +1,6 @@
 # 👋 **Welcome!**
 
-I'm a Data Analyst & Scientist with a degree in Petroleum Engineering and 3+ years experience in operations and research activities in the Oil & Gas industry. As an engineer, I've developed a data-driven behavior (and taste) for gathering and studying valuable information to solve problems.
+I'm a Data Analyst & Scientist with a degree in Petroleum Engineering and 3+ years experience in operations and research activities in the Oil & Gas industry. As an engineer, I've developed many skills including a data-driven behavior (and taste) for gathering and studying valuable information to solve problems.
 
 I have an endless curiosity, always looking for opportunities to learn and improve human and technical skills. I’m super intrigued about the benefits and transformative potential of AI. Therefore, I'm looking for career growth opportunities where I can provide my skills and knowledge for the sake of organizations and communities.
 
