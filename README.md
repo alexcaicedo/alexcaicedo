@@ -10,12 +10,12 @@ I'm a Data Analyst & Scientist with a degree in Petroleum Engineering and 3+ yea
 
 ## 👀 **My interests and hobbies**
 
-- Cosmology 🌠, science ⚛️ and technology 🦾
-- Sci-fi 🛸 and adventure 🧝
-- Energy and climate change 🌎🌳
-- Culture exchange and diversity 🌈
-- Cooking and food 🧑‍🍳🍽️🥐
+- Cosmology, science and technology ⚛️
+- Sci-fi and adventure 🧝
+- Energy and climate change ⚡🌎
+- Languages and culture exchange
+- Cooking and food 🥐
 - Running 🏃
-- Movies 📽️🎞️
+- Movies 📽️
 
 🌱 I’m currently persuing a career in Data Science and Artificial Intelligence 📊🤖.
